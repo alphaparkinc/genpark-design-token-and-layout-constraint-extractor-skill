@@ -1,0 +1,1 @@
+# genpark-design-token-and-layout-constraint-extractor-skill\n\nExtracts normalized CSS design tokens, spacing scales, and responsive flex layout rules from UI node definitions.\n\n100% Python Standard Library implementation with zero external dependencies.
