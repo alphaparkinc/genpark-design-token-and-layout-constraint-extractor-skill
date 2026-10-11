@@ -1,0 +1,1 @@
+[project]\nname = "genpark-design-token-and-layout-constraint-extractor-skill"\nversion = "1.0.0"\ndescription = "Extracts normalized CSS design tokens, spacing scales, and responsive flex layout rules from UI node definitions"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
